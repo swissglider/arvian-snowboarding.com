@@ -1,0 +1,28 @@
+{
+  "hosting": [{
+    "site": "arvian-snowboarding",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },{
+    "site": "cv-arvian-snowboarding",
+    "public": "cv",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },{
+    "site": "qr-arvian-snowboarding",
+    "public": "qr",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+]
+}
